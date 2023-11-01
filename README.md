@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Janne-Svitt
 - 👀 I’m interested in Game Development 🕹️
 - 🌱 I’m currently learning JavaScript ☕
-- 📫 How to reach me GitHub 
+- 📫 How to reach me GitHub
+- 📚 https://www.freecodecamp.org/Janne_Svitt
 
 <!---
 Janne-Svitt/Janne-Svitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
