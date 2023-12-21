@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janne-Svitt
 - 👀 I’m interested in Game Development 🕹️
-- 🌱 I’m currently learning JavaScript ☕
+- 🌱 I’m currently learning JavaScript, C# ☕
 - 📫 How to reach me GitHub
 - 📚 https://www.freecodecamp.org/Janne_Svitt
 
