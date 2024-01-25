@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Albin
-- 👀 I’m interested in Game Development 🕹️
+- 👀 I’m interested in Game, App and Web Development 🕹️
 - 🌱 I’m currently learning JavaScript, C# ☕
 - 📫 How to reach me: Albin.Svensson@medieinstitutet.se
 - 📚 https://www.freecodecamp.org/Janne_Svitt
