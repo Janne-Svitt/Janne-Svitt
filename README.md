@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Janne-Svitt
+- 👋 Hi, I’m Albin
 - 👀 I’m interested in Game Development 🕹️
 - 🌱 I’m currently learning JavaScript, C# ☕
 - 📫 How to reach me: Albin.Svensson@medieinstitutet.se
